@@ -1,0 +1,17 @@
+[worldserver]
+
+########################################
+# Fireworks on Level configuration
+########################################
+#
+# Announce the module when a player logs in.
+#   FireworksOnLevel.Announce
+#     Default: 1 (enabled)
+#
+FireworksOnLevel.Announce = 1
+
+# Enable fireworks when players level up (fires on every level; casts 3 random fireworks).
+#   FireworksOnLevel.Enable
+#     Default: 1 (enabled)
+#
+FireworksOnLevel.Enable = 1

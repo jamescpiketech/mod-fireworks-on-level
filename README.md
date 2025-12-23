@@ -4,7 +4,7 @@
 - Latest build status with azerothcore: [![Build Status](https://github.com/azerothcore/mod-fireworks-on-level/workflows/core-build/badge.svg?branch=master&event=push)](https://github.com/azerothcore/mod-fireworks-on-level)
 
 #### Features:
-- FireWorks on level up for Azerothcore
+- FireWorks on every level up for Azerothcore (casts 3 random fireworks)
 
 ### This module currently requires:
 - AzerothCore v1.0.1+
@@ -12,7 +12,7 @@
 ### How to install
 1. Simply place the module under the `modules` folder of your AzerothCore source folder.
 2. Re-run cmake and launch a clean build of AzerothCore
-3. Copy mod_customserver.conf.dist to mod_customserver.conf
+3. Copy `conf/mod_fireworks_on_level.conf.dist` to `conf/mod_fireworks_on_level.conf`
 4. Log in game, level up and enjoy.
 
 
